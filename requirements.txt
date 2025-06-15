@@ -159,7 +159,7 @@ thinc==8.3.6
 threadpoolctl==3.5.0
 tinycss2==1.2.1
 tokenizers==0.21.1
-torch==2.7.0
+torch==2.0.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
 tornado==6.4.1
 tqdm==4.67.0
 traitlets==5.14.3
